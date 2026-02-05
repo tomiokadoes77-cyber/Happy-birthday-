@@ -129,7 +129,7 @@
                     <div class="userImg">
                         <img src="images/unnamed.png" alt="">
                     </div>
-                    <h4 class="username">To: Mehwish 💖<span class="underline"></span></h4>
+                    <h4 class="username">To: Tanishka 💖<span class="underline"></span></h4>
 
                     <h3>Happy Birthday</h3>
                     <div class="imageCute">
@@ -140,12 +140,12 @@
                     <div class="card2-content">
                         <h3>To You!</h3>
                         <h2>Happy birthday 🥳🎂🥳 chanda the day you come into my life I was not really much attached to
-                            you but day by day you became close to my heart . And now you are truly my younger sister. I
+                            you but day by day you became close to my heart . And now you are truly my better half. I
                             wish I could remove some of the pain from your life which you are bearing alone. But you're
                             always welcome 🤗 you can talk anytime you want to talk specially those which you can't say
                             to others. And this year your all dreams come true . I wish that your
-                            brother could wish you but if couldn't wish on him behalf I am wishing you happy birthday
-                            🎈🎂🎈 sana . Don't be Sad ok be happy 😌
+                            Cutiee Maharaja could wish you but if couldn't wish on him behalf I am wishing you happy birthday
+                            🎈🎂🎈 Tanishka . Don't be Sad ok be happy 😌
                         </h2>
 
                         <div class="imageCute2">
